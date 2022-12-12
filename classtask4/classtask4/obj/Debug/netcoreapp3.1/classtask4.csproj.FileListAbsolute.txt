@@ -1,0 +1,14 @@
+C:\Users\Hp\OneDrive\Desktop\c# task\classtask4\classtask4\obj\Debug\netcoreapp3.1\classtask4.csproj.AssemblyReference.cache
+C:\Users\Hp\OneDrive\Desktop\c# task\classtask4\classtask4\obj\Debug\netcoreapp3.1\classtask4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\OneDrive\Desktop\c# task\classtask4\classtask4\obj\Debug\netcoreapp3.1\classtask4.AssemblyInfoInputs.cache
+C:\Users\Hp\OneDrive\Desktop\c# task\classtask4\classtask4\obj\Debug\netcoreapp3.1\classtask4.AssemblyInfo.cs
+C:\Users\Hp\OneDrive\Desktop\c# task\classtask4\classtask4\obj\Debug\netcoreapp3.1\classtask4.csproj.CoreCompileInputs.cache
+C:\Users\Hp\OneDrive\Desktop\c# task\classtask4\classtask4\bin\Debug\netcoreapp3.1\classtask4.exe
+C:\Users\Hp\OneDrive\Desktop\c# task\classtask4\classtask4\bin\Debug\netcoreapp3.1\classtask4.deps.json
+C:\Users\Hp\OneDrive\Desktop\c# task\classtask4\classtask4\bin\Debug\netcoreapp3.1\classtask4.runtimeconfig.json
+C:\Users\Hp\OneDrive\Desktop\c# task\classtask4\classtask4\bin\Debug\netcoreapp3.1\classtask4.runtimeconfig.dev.json
+C:\Users\Hp\OneDrive\Desktop\c# task\classtask4\classtask4\bin\Debug\netcoreapp3.1\classtask4.dll
+C:\Users\Hp\OneDrive\Desktop\c# task\classtask4\classtask4\bin\Debug\netcoreapp3.1\classtask4.pdb
+C:\Users\Hp\OneDrive\Desktop\c# task\classtask4\classtask4\obj\Debug\netcoreapp3.1\classtask4.dll
+C:\Users\Hp\OneDrive\Desktop\c# task\classtask4\classtask4\obj\Debug\netcoreapp3.1\classtask4.pdb
+C:\Users\Hp\OneDrive\Desktop\c# task\classtask4\classtask4\obj\Debug\netcoreapp3.1\classtask4.genruntimeconfig.cache
